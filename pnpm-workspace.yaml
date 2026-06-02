@@ -1,0 +1,4 @@
+allowBuilds:
+  sharp: set this to true or false
+minimumReleaseAgeExclude:
+  - pnpm@11.5.1
