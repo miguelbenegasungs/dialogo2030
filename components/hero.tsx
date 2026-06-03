@@ -90,7 +90,7 @@ export function Hero() {
             </h1>
 
             <p className="text-lg sm:text-xl text-white/80 leading-relaxed max-w-xl">
-              Una visión participativa y transformadora. Gobernar implica liderar, acompañar y decidir en pos de la excelencia, 
+              Una visión participativa y transformadora. Gestionar el instituto de Industria implica liderar, acompañar y decidir en pos de la excelencia, 
               reconociendo los saberes y sentires de toda la comunidad.
             </p>
 
