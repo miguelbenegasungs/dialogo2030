@@ -142,10 +142,10 @@ export const estudiantesContent: ClaustroPageContent = {
     },
     {
       id: "est-8",
-      title: "Formación continua en competencias emergentes",
-      summary: "Programas certificados en IA, machine learning, automatización y tecnologías emergentes.",
+      title: "Formación continua en competencias emergentes.",
+      summary: "Programas certificados de capacitaciones en IA, ciberseguridad, machine learning, automatización y tecnologías emergentes.",
       details: [
-        "Se promoverán programas certificados de actualización en inteligencia artificial, machine learning, automatización, análisis de datos y tecnologías emergentes.",
+        "Se promoverán programas certificados de actualización en inteligencia artificial, ciberseguridad, machine learning, automatización, análisis de datos y tecnologías emergentes.",
         "Se priorizará su aplicación en procesos productivos, organizacionales y de innovación.",
       ],
       icon: "cpu",
