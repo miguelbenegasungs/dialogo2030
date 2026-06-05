@@ -205,6 +205,18 @@ export const estudiantesContent: ClaustroPageContent = {
       icon: "calendar-days",
       color: "bg-[#1B365D]",
     },
+    {
+      id: "est-14", // Podés ajustar el ID según el orden que lleve en tu array
+      title: "Innovación en Infraestructura Digital y Espacios de Co-creación Tecnológica",
+      summary: "Garantizaremos laboratorios equipados, licencias de software y accesos institucionales clave para todas las carreras del Instituto, impulsando hackatones y desafíos junto a empresas de la región.",
+      details: [
+        "Se impulsará la modernización integral de los laboratorios de informática y entornos experimentales del Instituto, garantizando el acceso simplificado a licencias de software especializado, infraestructura en la nube y herramientas institucionales clave para el desarrollo académico.",
+        "Sobre esta base de recursos renovados, se promoverá la realización periódica de hackatones, torneos de competencias profesionales y desafíos de innovación abierta co-organizados junto a empresas, industrias y organizaciones del territorio.",
+        "Estos dispositivos formativos transversales permitirán a los y las estudiantes de todas las disciplinas del IDEI aplicar sus conocimientos en escenarios reales, potenciar el trabajo en equipo interdisciplinario, robustecer sus portfolios profesionales y generar canales de vinculación directa con los principales reclutadores y referentes del sector productivo."
+      ],
+      icon: "cpu", // O "code", "laptop", "terminal", "network-wired" según los que tengas disponibles en tu set de iconos
+      color: "bg-[#1B365D]",
+    },
   ],
   faqDescription:
     "Respuestas claras sobre acompañamiento estudiantil, empleabilidad, participación curricular y diálogo con el Decanato.",
