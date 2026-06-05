@@ -17,7 +17,7 @@ export const claustroRoutes: ClaustroRoute[] = [
     label: "Estudiantes",
     shortLabel: "Estudiantes",
     description: "Acompañamiento, empleabilidad, internacionalización y participación curricular.",
-    proposalCount: 13,
+    proposalCount: 14,
     color: "bg-[#1B365D]",
   },
   {
